@@ -1,1 +1,3 @@
-    //"socket.io": "^3.1.1"
+# Proyecto Socket y WebSocket
+
+Aunque logran (en general) cosas similares, sí , son son realmente diferentes. Los WebSockets normalmente se ejecutan desde navegadores que se conectan a Application Server a través de un protocolo similar aHTTPque se ejecuta sobre TCP/IP . Por lo tanto, son principalmente para aplicaciones web que requieren una conexión permanente a su servidor. Por otro lado, los enchufes planos son más potentes y genéricos. Se ejecutan en TCP/IP pero no están restringidos a navegadores oHTTPprotocol. Podrían ser utilizados para implementar cualquier tipo de comunicación.
